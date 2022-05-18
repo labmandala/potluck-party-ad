@@ -17,4 +17,12 @@
 * Modify Attributes, and the
 * innerText & innerHTML Properties
 
-<img src="potluck-party.jpg"/>
+<h4>Other JS features include:</h4>
+
+* User Interaction 
+* DOM Events: Mouse events
+* Event Listeners
+* Event Handlers
+* classList Property
+
+<img src="potluck-party-themes.png"/>
